@@ -10,4 +10,4 @@ resource "aws_instance" "myFirstInstance" {
     Name = TerrInst
   }
 }
-}
+
